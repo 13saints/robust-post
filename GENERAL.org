@@ -4,6 +4,45 @@ Copyright (C) 2020, 2021 Thirteen Saints.
 [[Kakashi Public License v1.0]] Affirmed.
 [[Readme]].
 
+* <2021-01-04 Mon> Thoughts On The Continuation Of Pointfeather.
+alanwespen.
+It has been 2.5 years since I started the project. It should have been done by
+now. At this rate, another 2.5 years will pass with nothing out worthy of being
+published. What should I do?
+
+I think other books are distracting. I cannot get adequately excited about them.
+Also, there is no guarantee that over time, I will face the same kind of problem
+with them too. And then I will have 2 big unfinished projects. 
+
+The tasks ahead should be the following. Go through what has been written (in
+the print) and figure out what can be kept. Introduce all the characters. Write
+out the backgrounds and capabilities and peculiarities of the a large cast of
+characters and then allow them to interact. Running out of ideas has never been
+a problem. You have the plot. But executing it is the problem.
+
+Get to know the characters better. Marco. Find more about him. Write his
+biography. Erasmus. Renlin. Lia. Magnus. Ireen. Charl. Marina. Ajax. The final
+class characters. Know more about all of them. That should be the project to do
+for a month. Write up their backstories. Write up their details: likes,
+dislikes, fashion choices, spell preference. 
+
+Thoughts On Wands. Wands are tools. Humans need tools. Better tools, better
+outcomes. Humans do not get better when tools are taken away from them.
+(counterexample abacus) So taking a wand away should not make sorcerers better.
+The magicians who follow the ancient code are able to form specialized spelling
+objects, and the object can be anything. Tools that enable representation are
+complementary (abacus). Tools that generate output are supplementary
+(calculator). Use this fact to rewrite some of the stories. This provides good
+justification for an explosion of magical objects. Note, better representation
+allows for better use of the tools involved.
+
+I also have this idea about professors emiriti. Disembodied heads in floating
+cylinders maintained by universities.
+
+Think about the economics of magical education. Think about the politics of it too. 
+Olarc is ultimately a small college attached to the side. No graduate students,
+not a whole lot of funding and prestige. But this is still a significant place. 
+
 * <2021-01-04 Mon> Games and Economic Behavior.
 alanwespen.
 The [[https://www.journals.elsevier.com/games-and-economic-behavior][Games and Economic Behavior]] journal is free to publish in, as per
