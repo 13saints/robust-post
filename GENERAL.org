@@ -4,6 +4,16 @@ Copyright (C) 2020, 2021 Thirteen Saints.
 [[Kakashi Public License v1.0]] Affirmed.
 [[Readme]].
 
+* <2021-01-04 Mon> Practically Beautiful Format.
+alanwespen.
+I'm renaming what was previously known as "13 Rules Of Beauiful Writing" to
+"Practically Beautiful Format" or pbf. It sounds like pdf or pbs, but is
+neither. PBF has the advantage of not having a number attached to its name.
+Also, the name is descriptive, the goal is achieving practical beauty.
+
+Note, 13 Saints are, until further notice, asked to abstain from beginning a
+sentence in lowercase. Let some of the social restrictions relax, and then we
+shall resume with what is practical. The rest of the rules stand.
 
 * <2021-01-04 Mon> Noblesse rec1. 
 by Agent 3381595759.
