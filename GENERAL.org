@@ -4,6 +4,21 @@ Copyright (C) 2020, 2021 Thirteen Saints.
 [[Kakashi Public License v1.0]] Affirmed.
 [[Readme]].
 
+* <2021-01-04 Mon> Games and Economic Behavior.
+alanwespen.
+The [[https://www.journals.elsevier.com/games-and-economic-behavior][Games and Economic Behavior]] journal is free to publish in, as per
+information presented in [[https://kochiuyu.github.io/others/journalfee][Chiu Yu Ko's github page]]. I am considering working on
+my paper about incentives, preference falsification, and groupthink. Having the
+goal to publish in a proper journal, is going to have a proper motivating effect. 
+
+So what might this paper be about. Another big round of thinking to follow.
+Perhaps I should postpone this until after the apps are completed. I will have
+to combine this with ABM. This will happen after I have gone through the Richard
+Gaylord book about simulating societies. And then as data I could look for
+surveys, and everything I can get my hold on, from the information available on
+the fall of soviet countries. I don't know the details. This is just throwing
+ideas out. 
+
 * <2021-01-04 Mon> Practically Beautiful Format.
 alanwespen.
 I'm renaming what was previously known as "13 Rules Of Beauiful Writing" to
