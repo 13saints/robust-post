@@ -7,7 +7,25 @@ All Rights Reserved.
 ..........
 ongoing projects:
 [[noble ranks]]
+[[pointfeather]]
 ..........
+
+* <2021-01-08 Fri> Public Domain Architecture Images.
+[[https://www.archdaily.com/780312/these-are-the-best-architecture-images-from-the-nypls-new-public-domain-collection]]
+
+* <2021-01-08 Fri> Alexandra Exter - Maquettes de theatre. 
+[[https://artvee.com/books/maquettes-de-theatre/]]
+15 inspiring images. these remind me of the night circus. 
+
+* <2021-01-08 Fri> Pointfeather Updates.
+<<pointfeather>>
+1. after the capture of erasmus and the supposed death of renlin, during his
+   imprisonment, erasmus has long conversations with ireen. ireen thinks erasmus
+   can be brought to her side if everything is explained to him. 
+questions erasmus asks: 1.1. why kill the subordinates? they would be tortured
+in the camp and they would beg for a death they would not be granted. she did
+try to make them escape. 
+
 
 * <2021-01-07 Thu> Open Letter To President Donald Trump.
 dear mr president of the united states of america:
@@ -70,10 +88,6 @@ provide for the country. this cannot be said of many who assume positions of
 political leadership throughout the world. 
 
 you have fought the good fight; for that i express my gratitude. 
-
-
-
-
 
 * <2021-01-06 Wed> RRPPL v1.0.
 <<rrppl v1.0>> 
